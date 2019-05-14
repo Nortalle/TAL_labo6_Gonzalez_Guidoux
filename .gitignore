@@ -5,3 +5,5 @@
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
+
+word2vec-google-news-300.gz
